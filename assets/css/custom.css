@@ -423,26 +423,7 @@ section h3 {
 
 }
 
-/*centrar texto en circulos*/
 
-#instructor .num .num-content {
-
-	display: table-cell;
-	vertical-align: middle;
-
-
-
-}
-
-
-#instructor .mum span {
-
-	display: block;
-	font-size: 20px;
-	font-weight: normal;
-
-
-}
 #kudos {
 
 	text-align: center;
