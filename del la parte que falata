@@ -1,0 +1,68 @@
+ <div id="comments">
+                <div class="comments-wrap">
+                    <h3>4 comentarios</h3>
+
+                    <!--este comentario va a tener imagen e informacion cuando use wordpress -->
+
+                    <ol class="comments-list">
+                        <li class="comment">
+                            <h4>john Smith <small>&bull; Agosto 12, 2015</small></h4>
+
+                            <div class="comment-body">
+                                <p>prueba de lorem ipsum jejeje mentira es miavprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es mia</p>
+                            </div><!--comment-body -->
+
+
+                            <ol class="children">
+                                <li class="comment">
+                                    <h4>Chris Mcooper <small>&bull; Agosto 12, 2015</small></h4>
+
+                                    <div class="comment-body">
+                                <p>prueba de lorem ipsum jejeje mentira es miavprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es mia</p>
+                            </div><!--comment-body -->
+
+
+                            <ol class="children">
+
+                                <li class="comment">
+                                    <h4>Jhonny Dee <small>&bull; Agosto 12, 2015</small></h4>
+
+                                    <div class="comment-body">
+
+                                        <p>prueba de lorem ipsum jejeje mentira es miavprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es mia</p>
+                                        
+                                    </div><!--comment-body -->
+
+
+                                </li><!--comment -->
+
+                                
+                            </ol><!--children -->
+
+
+
+                                </li><!--licomment -->
+                                
+                            </ol><!--children -->
+
+                        </li><!--comment -->
+
+                        <li class="comment">
+                            <h4>Jane Smith <small>&bull; Agosto, 01, 2015</small></h4>
+                            <div class="comment-body">
+                                <p>prueba de lorem ipsum jejeje mentira es miavprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es miaprueba de lorem ipsum jejeje mentira es mia</p>
+                            </div><!--comment-body -->
+                        </li><!--comment -->
+                    </ol><!--comment list -->
+
+
+                </div><!--comment wrap -->
+
+                
+
+            </div><!--comment -->
+
+
+              
+        
+    </div><!--container -->
