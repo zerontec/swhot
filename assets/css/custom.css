@@ -85,7 +85,7 @@ button.btn:focus{
 }
 
 .btn-success {
-	background: 79b044;
+	background: #79b044;
 	border: none;
 }
 .btn-success:hover {
@@ -280,7 +280,7 @@ text-align: center;
 section h2 {
 
 	margin: 20px 0 40px;
-    color: fuchsia;
+    color: mediumslateblue;
 
 }
 
@@ -696,6 +696,7 @@ footer li.signup-link a:hover {
 	float: left;
 	margin: 0 3% 40px 0;
 
+    color: 
 
 
 
